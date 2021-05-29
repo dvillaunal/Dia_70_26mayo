@@ -1,2 +1,2 @@
-# Dia_70_26mayo
+# Dia_71_26mayo
 Leer el archivo numeros_v20210520.txt (en la columna de referencias se indica la ruta para acceder al archivo). operaciones solicitadas: uno, encontrar y organizar en orden descendente los números primos contenidos en el archivo. Dos, construir una matriz en orden ascendente de los números que no tienen dígitos repetidos, y cuya suma de dígitos es mayor que 9 y menor que 20. Es necesario mostrar tanto el número como la suma correspondiente a los dígitos en la misma fila.
